@@ -1,1 +1,1 @@
-https://javaboy.vercel.app/electron-and-react
+https://javaboy.vercel.app/article/electron-and-react
